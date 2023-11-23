@@ -89,7 +89,7 @@ for test_input in inputs:
     print(f"For input {test_input}, prediction: {prediction}")
 
 # Link to run if this copy paste is not working
-https://replit.com/@vigneshm2021csb/Artificial-Neural-Network
+https://replit.com/@vigneshm2021csb/Artificial-Neural-Network#main.py
 
 # input
 inputs = np.array([[0, 0], [0, 1], [1, 0], [1, 1]])
